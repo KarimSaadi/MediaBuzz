@@ -1,4 +1,4 @@
 # MediaBuzz
 MediaBuzz JAVA SPRING HIBERNATE
 
-MediaBuzz project made by Benrnede Josselin and Saadi Karim
+MediaBuzz project made by Bernede Josselin and Saadi Karim
